@@ -1,6 +1,6 @@
 {
-  "name": "react-sb-calculator",
-  "version": "0.0.1",
+  "name": "sb-calculator",
+  "version": "0.1.0",
   "description": "Sample react calculator",
   "main": "dist/index.js",
   "module": "dist/index.es.js",

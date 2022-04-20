@@ -16,6 +16,6 @@ http://localhost:6006
 
 # Use the package
 
-npm install react-sb-calculator@0.0.1
+npm i sb-calculator
 
-import { Calculator } from 'react-sb-calculator/Calculator';
+import { Calculator } from 'sb-calculator';
